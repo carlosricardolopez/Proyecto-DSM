@@ -11,11 +11,11 @@ App móvil práctica y fácil de usar que ayudará a los profesionales a registr
 # Herramientas 🛠️
 -Android Studio
 # Autores 
--Joel Alexander Flores Hernández FH190646
--David Ezequiel Martínez Sanabria MS180761
--Romeo Alejandro Teos Arévalo TA191376
--Bryan Efraín Crespín Bran CB180936
--Carlos Ricardo López López LL192148
+- Joel Alexander Flores Hernández FH190646
+- David Ezequiel Martínez Sanabria MS180761
+- Romeo Alejandro Teos Arévalo TA191376
+- Bryan Efraín Crespín Bran CB180936
+- Carlos Ricardo López López LL192148
 # Enlaces de interés 👀
 - [Tablero en Notion] : 
 - [MockUps Aplicacion] : 
