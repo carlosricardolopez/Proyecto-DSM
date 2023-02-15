@@ -10,7 +10,7 @@ App móvil práctica y fácil de usar que ayudará a los profesionales a registr
 
 # Herramientas 🛠️
 -Android Studio
-# Autores 
+# Autores 👨🏻‍💻
 - Joel Alexander Flores Hernández FH190646
 - David Ezequiel Martínez Sanabria MS180761
 - Romeo Alejandro Teos Arévalo TA191376
