@@ -14,7 +14,7 @@ App móvil práctica y fácil de usar que ayudará a los profesionales a registr
 - Joel Alexander Flores Hernández FH190646
 - David Ezequiel Martínez Sanabria MS180761 - :octocat: [davidezq](https://github.com/davidezq)
 - Romeo Alejandro Teos Arévalo TA191376
-- Bryan Efraín Crespín Bran CB180936
+- Bryan Efraín Crespín Bran CB180936 - :octocat: [carlosricardolopez](https://github.com/carlosricardolopez)
 - Carlos Ricardo López López LL192148
 # Enlaces de interés 👀
 - [Tablero en Notion] : https://www.notion.so/invite/556763b221efd8656ddef2ecfcd07ba60481af00
