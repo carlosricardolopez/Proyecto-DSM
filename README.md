@@ -17,5 +17,5 @@ App móvil práctica y fácil de usar que ayudará a los profesionales a registr
 - Bryan Efraín Crespín Bran CB180936
 - Carlos Ricardo López López LL192148
 # Enlaces de interés 👀
-- [Tablero en Notion] : 
+- [Tablero en Notion] : https://www.notion.so/invite/556763b221efd8656ddef2ecfcd07ba60481af00
 - [MockUps Aplicacion] : 
