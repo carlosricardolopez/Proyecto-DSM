@@ -18,4 +18,4 @@ App móvil práctica y fácil de usar que ayudará a los profesionales a registr
 - Carlos Ricardo López López LL192148
 # Enlaces de interés 👀
 - [Tablero en Notion] : https://www.notion.so/invite/556763b221efd8656ddef2ecfcd07ba60481af00
-- [MockUps Aplicacion] : 
+- [MockUps Aplicacion] : https://github.com/Joelfloreshz/MUCKUPS/blob/main/1.drawio.pdf
