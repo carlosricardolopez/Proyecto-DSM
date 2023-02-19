@@ -11,7 +11,7 @@ App móvil práctica y fácil de usar que ayudará a los profesionales a registr
 # Herramientas 🛠️
 -Android Studio
 # Autores 👨🏻‍💻
-- Joel Alexander Flores Hernández FH190646
+- Joel Alexander Flores Hernández FH190646 - :octocat: [joelfloreshz](https://github.com/joelfloreshz)
 - David Ezequiel Martínez Sanabria MS180761 - :octocat: [davidezq](https://github.com/davidezq)
 - Romeo Alejandro Teos Arévalo TA191376
 - Bryan Efraín Crespín Bran CB180936 - :octocat: [carlosricardolopez](https://github.com/carlosricardolopez)
